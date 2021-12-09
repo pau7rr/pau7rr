@@ -14,3 +14,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 </div>
+  
+<h2 align="center"> My GitHub Stats <h2>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pau7rr&show_icons=true&theme=gruvbox&count_private=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pau7rr&layout=compact" />
