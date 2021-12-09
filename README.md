@@ -20,6 +20,8 @@
 <div align="center">
   
   ![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=pau7rr&show_icons=true&count_private=true)
+  
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pau7rr&layout=compact)](https://github.com/pau7rr/github-readme-stats)
   
 </div>
